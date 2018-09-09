@@ -1,7 +1,10 @@
 .vscode/
 pyproject.lock
 pyproject.toml
-*.sqlite3
+db.sqlite3
 *.pyc
 staticfiles
 .idea/
+__pycache__
+/static
+.DS_Store
