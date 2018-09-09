@@ -1,3 +1,7 @@
 .vscode/
 pyproject.lock
 pyproject.toml
+*.sqlite3
+*.pyc
+staticfiles
+.idea/
